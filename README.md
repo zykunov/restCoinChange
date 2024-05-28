@@ -4,6 +4,8 @@
 ### Для запуска - 
 > go run .\cmd\currencyChange\main.go
 
+Данные необходимо отправлять методом POST, маршрут по умолчанию - http://127.0.0.1:1325/change
+
 ### Для запуска тестов 
 1. > cd .\internal\app\handlers\
 2. > go test
